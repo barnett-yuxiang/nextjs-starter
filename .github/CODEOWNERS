@@ -1,0 +1,5 @@
+* @barnett-yuxiang
+*.js @barnett-yuxiang
+*.ts @barnett-yuxiang
+*.tsx @barnett-yuxiang
+/e2e/ @barnett-yuxiang
